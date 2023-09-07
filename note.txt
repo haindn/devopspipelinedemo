@@ -1,0 +1,4 @@
+Tạo Github repo
+git clone
+Tạo asp src
+dotnet new webapp -f net7.0
